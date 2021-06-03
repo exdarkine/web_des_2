@@ -1,8 +1,1 @@
-Дембіцький Максим Олегович, студент КВ-83
-Лабораторна робота ''Розробка функціональності Web-додатка мовою Javascript''.
-Мета: ознайомитись із засобами мови Javascript та навчитись їх застосовувати побудови Web-інтерфейсу користувача.
-Загальне завдання: розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC.
-Інструменти розробки: мови HTML5, CSS3, Javascript.
-Звіт:
-https://docs.google.com/document/d/134KolTLZTl0nm9hAV_1Bt-CBmWWfVxSwSUMQNpv2uiM/edit?usp=sharing
-"# web_des_2" 
+Виконав Краснов Федір Михайлович, студент групи КВ-81. Звіт - https://docs.google.com/document/d/1__oOmnr3tXwm-WDI_RpEJuoYGvQYdGwrZFHi_zlxMKc/edit?usp=sharing
